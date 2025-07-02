@@ -19,7 +19,7 @@
 ### 🔗 Conéctate conmigo
 
 - 🌐 **Portafolio Web**: [curriculumdigital.netlify.app](https://curriculumdigital.netlify.app)
-- 💼 **LinkedIn**: [Juan](www.linkedin.com/in/juan-ramon-moreno-bravo-0830b1271)
+  - 💼 **LinkedIn**: [Juan](https://www.linkedin.com/in/juan-ramon-moreno-bravo-0830b1271)
 - 📫 **Correo**: juanhernandezbravo750@gmail.com
 
 ---

@@ -56,7 +56,7 @@
   <img src="https://img.icons8.com/color/48/netlify.png" height="40" title="Netlify" />
   <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" height="40" title="Microsoft Office" />
   <img src="https://img.icons8.com/fluency/48/help.png" height="40" title="HelpDesk" />
-  <img src="https://img.icons8.com/color/48/teamviewer.png" height="40" title="TeamViewer" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/teamviewer.svg" height="40" title="TeamViewer" />
   <img src="https://img.icons8.com/color/48/anydesk.png" height="40" title="AnyDesk" />
 </p>
 
